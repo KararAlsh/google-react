@@ -1,5 +1,5 @@
 import React from 'react'
-class App extends React.Component {
+class Results extends React.Component {
   render() {
     return (
      <div className="resultbody">
@@ -42,4 +42,4 @@ class App extends React.Component {
    )
   }
 }
-export default App
+export default Results

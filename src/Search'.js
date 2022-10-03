@@ -1,5 +1,5 @@
 import React from 'react'
-class App extends React.Component {
+class Search extends React.Component {
 	search = e => {
 		e.preventDefault()
 		console.log(e);
@@ -18,4 +18,4 @@ class App extends React.Component {
    )
   }
 }
-export default App
+export default Search
